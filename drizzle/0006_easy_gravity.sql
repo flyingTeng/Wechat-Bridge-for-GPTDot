@@ -1,0 +1,1 @@
+ALTER TABLE `inbound_dedup` ADD `fingerprint` text DEFAULT '' NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE `binding` ADD `binding_generation` text;
